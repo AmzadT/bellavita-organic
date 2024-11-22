@@ -4,7 +4,7 @@
 
 *Here is the project Screenshot Image :*
 
-![Project Screenshot](./Bellavita-Frontend/bellavita-app/src/assets/project_image_screenshot.png)
+![Project Screenshot](./bellavita-app/src/assets/project_image_screenshot.png)
 
 ### Build with
  - React
